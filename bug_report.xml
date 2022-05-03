@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<BugReport>
+   <ID>01</ID>
+   <Component>CMS</Component>
+   <IssueType>Functional</IssueType>
+   <Title>Sale-room PLP doesn't open from any category of top menu</Title>
+   <StepsToReproduce>
+      <step>1. Click on any category/subcategory of top menu</step>
+      <step>2. Click on "Sale-room" category</step>
+   </StepsToReproduce>
+   <ExpectedResult>Open "Sale-room" PLP </ExpectedResult>
+   <ActualResult>A page  "404 Page not found"</ActualResult>
+</BugReport>
