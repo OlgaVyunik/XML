@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Skills>
+   <skill>
+      <name>Клиент-серверная архитектура</name>
+      <chapters>
+         <chapter>HTTP Методы запросов на сервер</chapter>
+         <chapter>Коды ответов HTTP сервера</chapter>
+         <chapter>Структуры HTTP запросов и ответов</chapter>
+      </chapters>
+   </skill>
+   <skill>
+      <name>Мобильное тестирование</name>
+      <chapters>
+         <chapter>Особенность iOS, Android, гайдлайны</chapter>
+         <chapter>Сборка iOS приложений на XCode</chapter>
+         <chapter>Сборка Android приложений на Android Studio</chapter>
+         <chapter>Настройка прокси и vpn на iOS и Android</chapter>
+      </chapters>
+   </skill>
+   <skill>
+      <name>Командная строка (terminal) Linux</name>
+      <chapters>
+         <chapter>Копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса</chapter>
+         <chapter>Основы bash скриптинг, автоматизация рутинных задач на сервере</chapter>
+      </chapters>
+   </skill>
+   <skill>
+      <name>Основы SQL</name>
+      <chapters>
+         <chapter>Create, Delete, Drop, Insert Into, Select, From, Where, Join</chapter>
+         <chapter>База данных Postgres (установка, настройка и использование)</chapter>
+         <chapter>Нереляционная база данных Redis (установка, настройка и использование)</chapter>
+      </chapters>
+   </skill>
+   <skill>
+      <name>Нагрузочное тестирование в Jmeter</name>
+   </skill>  
+   <skill>
+      <name>Dev Tools веб браузеров (Google Chrome, FireFox)</name>
+   </skill>    
+</Skills>
