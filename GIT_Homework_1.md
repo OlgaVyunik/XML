@@ -12,11 +12,11 @@
  |5. Закоммитить файл |git commit -m "new"|git commit -m "new"|git commit -m "new"|
  |6. Отправить файл на внешний GitHub репозиторий |git push|git push|git push|
  |7. Отредактировать содержание файла - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в соответствующем формате| start new.json -> edit -> save|start new.xml -> edit -> save|start new.txt -> edit -> save|
- |8. Отправить изменения на внешний репозиторий |git add new.json  <br/>  git commit -m "update" <br/>  git push |git add new.xml  <br/>  git commit -m "update" <br/>  git push|git add new.txt  <br/>  git commit -m "update" <br/>  git push|
+ |8. Отправить изменения на внешний репозиторий |git commit -am "update" <br/>  git push |git commit -am "update" <br/>  git push| git commit -am "update" <br/>  git push|
  |9. Создать файл | touch preferences.json |touch preferences.xml|touch preferences.txt|
  |10. В файл добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) | start preferences.json -> edit -> save |start preferences.xml -> edit -> save |start preferences.txt -> edit -> save |
  |11. Создать файл добавить информацию о скиллах которые будут изучены на курсе | touch skills.json  <br/>   start skills.json -> edit -> save |touch skills.xml  <br/>   start skills.xml -> edit -> save |touch skills.txt  <br/>   start skills.txt -> edit -> save |
- |12. Отправить сразу 2 файла на внешний репозиторий. | git add . <br/>   git commit -am "new" <br/> git push|git add .  <br/>  git commit -am "new" <br/> git push|git add .  <br/>  git commit -am "new" <br/> git push|
+ |12. Отправить сразу 2 файла на внешний репозиторий. | git add . <br/>   git commit -m "new" <br/> git push|git add .  <br/>  git commit -m "new" <br/> git push|git add .  <br/>  git commit -m "new" <br/> git push|
  |13. На веб интерфейсе создать файл | "Add file" -> bug_report.json|"Add file" -> bug_report.xml|"Add file" -> bug_report.txt|
  |14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.|"Commit new file"|"Commit new file"|"Commit new file"|
  |15. На веб интерфейсе модифицировать файл, добавить баг репорт в соответствующем формате |"Edit this file"|"Edit this file"|"Edit this file"|
